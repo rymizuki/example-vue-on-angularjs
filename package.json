@@ -1,0 +1,22 @@
+{
+  "name": "example-vue-on-angularjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "babel-loader": "^7.1.2",
+    "pug": "^2.0.0-rc.4",
+    "vue-loader": "^13.3.0",
+    "webpack": "^3.8.1",
+    "webpack-dev-server": "^2.9.3"
+  },
+  "devDependencies": {
+    "angular": "^1.6.6",
+    "angular-ui-router": "^0.4.3",
+    "babel-core": "^6.26.0",
+    "babel-preset-env": "^1.6.1",
+    "css-loader": "^0.28.7",
+    "vue": "^2.5.2",
+    "vue-template-compiler": "^2.5.2"
+  }
+}
