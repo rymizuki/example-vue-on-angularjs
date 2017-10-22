@@ -21,7 +21,10 @@ module.exports = [
       modules: [
         path.join(__dirname, 'src'),
         'node_modules',
-      ]
+      ],
+      alias: {
+        vue$: path.join(__dirname, '/node_modules/vue/dist/vue.js')
+      }
     },
     plugins: [
       new webpack.DllPlugin({

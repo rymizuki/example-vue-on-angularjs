@@ -14,9 +14,12 @@
     "angular": "^1.6.6",
     "angular-ui-router": "^0.4.3",
     "babel-core": "^6.26.0",
+    "babel-plugin-dynamic-import-webpack": "^1.0.1",
     "babel-preset-env": "^1.6.1",
     "css-loader": "^0.28.7",
+    "q": "^1.5.1",
     "vue": "^2.5.2",
+    "vue-router": "^3.0.1",
     "vue-template-compiler": "^2.5.2"
   }
 }
